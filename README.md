@@ -5,8 +5,7 @@ This contains a "The Best" folder for the main highlights for anyone interested.
 
 Additionally, there is a recent project optimizing the Baltimore Orioles's free agency acquisitions by maximizing WAR while controlling for the salary cap considerations.
 
-"The Rest" has other miscellaneous documents, and the MLR/NFL folders has the remaining work, I'm happy to discuss anything found in these folders.
-
 The main projects have all been through SQL or Excel, looking at fantasy projections for Major League Rugby players as well as a proprietary "Friendly Fantasy Format" method of introducing new fantasy managers and predicting game outcomes.
 
 Feel free to ask any questions and either email me at nickparry11018@gmail.com or on LinkedIn at https://www.linkedin.com/in/nicholasparry11018/ :D
+
